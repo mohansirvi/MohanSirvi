@@ -5,7 +5,7 @@ I am a passionate and dedicated software engineer with over 2 years of professio
 ## Technical Skills :
 
 <br />
-Programming Languages: C#, JavaScript
+Programming Languages: C#, JavaScript, C/C++
 <br />
 Web Technologies: Angular.js, Sencha Ext.js
 <br />
