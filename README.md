@@ -3,14 +3,24 @@
 I am a passionate and dedicated software engineer with over 2 years of professional experience. Currently, I am working at Aptean, a leading software solutions provider based in Bangalore, India.
 
 ## Technical Skills :
-
+• C/C++ (Proficient) • OOPS Concepts
 <br />
-Programming Languages: C#, JavaScript, C/C++
+• C# • ASP.NET • MVC •Web API
 <br />
-Web Technologies: Angular.js, Sencha Ext.js
+• HTML5 • CSS3 • Javascript • Sencha Ext.js
 <br />
-Database: SQL
-
+• SQL • SQL Server • Stored Procedures
+<br />
+• Azure devops • CI/CD • Git/Github
+<br />
+• Data Structure and Algorithms
+<br />
+• APIs and Backend Development
+<br />
+• Agile Development • Entity framework
+<br />
+• VS Code • Visual Studio • .NET Framework
+<br />
 
 ![Mohan Sirvi's github stats](https://github-readme-stats.vercel.app/api?username=mohansirvi&show_icons=true&hide_border=true)
 
