@@ -1,6 +1,6 @@
 ## Hey there!👋 I'm Mohan Sirvi 😄😄😄
 <br />
-I am a passionate and dedicated software engineer with over 2 years of professional experience. Currently, I am working at Aptean, a leading software solutions provider based in Bangalore, India.
+I am a passionate and dedicated software engineer with over 3 years of professional experience. Currently, I am working at Aptean, a leading software solutions provider based in Bangalore, India.
 
 ## Technical Skills :
 • C/C++ (Proficient) • OOPS Concepts
