@@ -24,7 +24,7 @@ I am a passionate and dedicated software engineer with over 3 years of professio
 
 ![Mohan Sirvi's github stats](https://github-readme-stats.vercel.app/api?username=mohansirvi&show_icons=true&hide_border=true)
 
-[![roadmap.sh](https://roadmap.sh/card/wide/675f1bd3ecc889bb0dd09a35?variant=light)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/675f1bd3ecc889bb0dd09a35?variant=dark)](https://roadmap.sh)
 
 <!--
 <a href="https://github.com/rockstarCSE057/Line-Encoding">
