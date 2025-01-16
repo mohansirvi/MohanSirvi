@@ -5,7 +5,7 @@ I am a passionate and dedicated software engineer with over 3 years of professio
 ## Technical Skills :
 • C/C++ (Proficient) • OOPS Concepts
 <br />
-• C# • ASP.NET • MVC •Web API
+• C# • .NET Core • ASP.NET • MVC •Web API
 <br />
 • HTML5 • CSS3 • Javascript • Sencha Ext.js
 <br />
