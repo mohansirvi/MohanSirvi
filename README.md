@@ -7,6 +7,10 @@ I am a passionate and dedicated software engineer with over 3 years of professio
 <br />
 • C# • .NET Core • ASP.NET • MVC •Web API
 <br />
+• Microservices • Distributed System • Scalable System • RESTful API's
+<br />
+• Microsoft Azure • Azure Functions • Azure Service Bus • SQL & NoSQL
+<br />
 • HTML5 • CSS3 • Javascript • Sencha Ext.js
 <br />
 • SQL • SQL Server • Stored Procedures
