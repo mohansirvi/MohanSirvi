@@ -1,4 +1,4 @@
-## Hey there!👋 I'm Mohan Sirvi 😄😄😄
+## Hey there!👋 I'm Mohan Sirvi
 <br />
 I am a passionate and dedicated software engineer with over 4 years of professional experience. Currently, I am working at Aptean as senior software engineer, a leading software solutions provider based in Bangalore, India.
 
