@@ -1,6 +1,6 @@
 ## Hey there!👋 I'm Mohan Sirvi
 <br />
-I am a passionate and dedicated software engineer with over 4 years of professional experience. Currently, I am working at Aptean as senior software engineer, a leading software solutions provider based in Bangalore, India.
+I am a passionate and dedicated software engineer with almost 4 years of professional experience. Currently, I am working at Aptean as senior software engineer, a leading software solutions provider based in Bangalore, India.
 
 ## Technical Skills :
 • C# • .NET Core • ASP.NET • MVC •Web API
