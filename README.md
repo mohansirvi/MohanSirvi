@@ -3,7 +3,7 @@
 I am a passionate and dedicated software engineer with almost 4 years of professional experience. Currently, I am working at Aptean as senior software engineer, a leading software solutions provider based in Bangalore, India.
 
 ## Technical Skills :
-• C# • .NET Core • ASP.NET • MVC •Web API
+• C# • .NET Core • ASP.NET Core • Entity FrameWork Core, Web API
 <br />
 • Microservices • Distributed System • Scalable System • RESTful API's
 <br />
