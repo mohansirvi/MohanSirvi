@@ -3,15 +3,13 @@
 I am a passionate and dedicated software engineer with almost 4 years of professional experience. Currently, I am working at Aptean as senior software engineer, a leading software solutions provider based in Bangalore, India.
 
 ## Technical Skills :
-• C# • .NET Core • ASP.NET Core • Entity FrameWork Core, Web API
+• C# • .NET Core • ASP.NET Core • Entity FrameWork Core, Web API • Microservices • Distributed System • Scalable System • RESTful API's
 <br />
-• Microservices • Distributed System • Scalable System • RESTful API's
+• APIs and Backend Development • Agile Development • Entity framework • .NET Framework
 <br />
 • Microsoft Azure • Azure Functions • Azure Service Bus • SQL & NoSQL
 <br />
-• C/C++ (Proficient) • OOPS Concepts
-<br />
-• HTML5 • CSS3 • Javascript • Sencha Ext.js
+• C/C++ (Proficient) • OOPS Concepts • HTML5 • CSS3 • Javascript • Sencha Ext.js
 <br />
 • SQL • SQL Server • Stored Procedures
 <br />
@@ -19,17 +17,10 @@ I am a passionate and dedicated software engineer with almost 4 years of profess
 <br />
 • Data Structure and Algorithms
 <br />
-• APIs and Backend Development
-<br />
-• Agile Development • Entity framework
-<br />
-• VS Code • Visual Studio • .NET Framework
-<br />
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohansirvi&show_icons=true&count_private=true&theme=github_dark)  ![GitHub Streak](https://streak-stats.demolab.com?user=mohansirvi&theme=github-dark-blue)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohansirvi&show_icons=true&count_private=true&theme=github_dark) 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohansirvi&layout=compact&theme=github_dark)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=mohansirvi&theme=github-dark-blue)
 
 <!--
 <a href="https://github.com/rockstarCSE057/Line-Encoding">
