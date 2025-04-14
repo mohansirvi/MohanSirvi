@@ -26,7 +26,7 @@ I am a passionate and dedicated software engineer with almost 4 years of profess
 • VS Code • Visual Studio • .NET Framework
 <br />
 
-![Mohan Sirvi's github stats](https://github-readme-stats.vercel.app/api?username=mohansirvi&show_icons=true&hide_border=true)
+![Mohan Sirvi's github stats]([[https://github-readme-stats.vercel.app/api?username=mohansirvi&show_icons=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=mohansirvi&show_icons=true&count_private=true&theme=github_dark)])
 
 
 <!--
