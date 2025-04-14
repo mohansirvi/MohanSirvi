@@ -26,11 +26,10 @@ I am a passionate and dedicated software engineer with almost 4 years of profess
 • VS Code • Visual Studio • .NET Framework
 <br />
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohansirvi&show_icons=true&count_private=true&theme=github_dark)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohansirvi&layout=compact&theme=github_dark)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohansirvi&show_icons=true&count_private=true&theme=github_dark)  ![GitHub Streak](https://streak-stats.demolab.com?user=mohansirvi&theme=github-dark-blue)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohansirvi&theme=github-dark-blue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohansirvi&layout=compact&theme=github_dark)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=mohansirvi&theme=darkhub)
 
 <!--
 <a href="https://github.com/rockstarCSE057/Line-Encoding">
