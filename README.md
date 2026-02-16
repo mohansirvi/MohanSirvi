@@ -16,7 +16,7 @@ I am a passionate and dedicated software engineer with over 4 years of professio
 • Data Structure and Algorithms
 <br />
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohansirvi&show_icons=true&count_private=true&theme=github_dark) 
+Link to My Portfolio : https://mohansirvi.github.io/
 
 <!--
 <a href="https://github.com/rockstarCSE057/Line-Encoding">
