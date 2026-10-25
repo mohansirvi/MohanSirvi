@@ -3,6 +3,8 @@ I am a passionate and dedicated software engineer with over 5 years of professio
 ## Technical Skills :
 • C# • .NET Core • ASP.NET Core • Entity FrameWork Core, Web API • Microservices • Distributed System • Scalable System • RESTful API's
 <br />
+• MCP • Agentic AI • Go • Eval-Driven-Development • LLM
+<br />
 • APIs and Backend Development • Agile Development • Entity framework • .NET Framework
 <br />
 • Microsoft Azure • Azure Functions • Azure Service Bus • SQL & NoSQL
@@ -14,6 +16,8 @@ I am a passionate and dedicated software engineer with over 5 years of professio
 • Azure devops • CI/CD • Git/Github
 <br />
 • Data Structure and Algorithms
+<br />
+• Claude • Co-Pilot 
 <br />
 
 Link to My Portfolio : https://mohansirvi.github.io/
